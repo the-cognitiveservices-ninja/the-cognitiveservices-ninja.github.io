@@ -28,7 +28,8 @@ twitter_username: holgerimbery
 github_username:  holgerimbery
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
