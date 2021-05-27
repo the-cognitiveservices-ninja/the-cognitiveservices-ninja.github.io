@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: the cognitiveservices ninja
+title: the cognitive services ninja
 email: the@cognitiveservices.ninja
 description: >- # this means to ignore newlines until "baseurl:"
   things that keep an architect awake at night
