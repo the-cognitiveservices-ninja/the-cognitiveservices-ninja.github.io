@@ -1,10 +1,15 @@
 ---
-label: standard
-hide_body: false
+label: Standard
+hide_body: true
 fields:
 - type: text
   name: layout
   label: layout
+- name: abstract
+  type: text
+  config:
+    required: false
+  label: abstract
 - type: text
   name: title
   label: title
