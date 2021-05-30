@@ -6,8 +6,6 @@ title: Visual Studio Code Remote Development
 text: ''
 
 ---
-# VS Code Remote Development
-
 **Visual Studio Code Remote Development** allows you to use a container, remote machine, or the [Windows Subsystem for Linux](https://docs.microsoft.com/windows/wsl) (WSL) as a full-featured development environment. You can:
 
 * Develop on the **same operating system** you deploy to or use **larger or more specialized** hardware.
