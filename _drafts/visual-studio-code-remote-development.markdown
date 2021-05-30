@@ -2,7 +2,7 @@
 tags: []
 categories: []
 layout: post
-title: Visual Studio Code
+title: Visual Studio Code Remote
 text: ''
 
 ---
