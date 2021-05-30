@@ -2,7 +2,7 @@
 layout: category_index
 title: posts
 permalink: "/blog/"
-category_name: ''
+category_name: posts
 
 ---
 ## “Not online are blogger suckers for the remarkable, so are the people who read blogs.”
