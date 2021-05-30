@@ -24,5 +24,3 @@ fields:
   config:
     required: false
   label: Text
-pages:
-- _posts/visual-studio-code-remote-development.markdown
