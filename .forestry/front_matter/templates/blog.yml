@@ -16,9 +16,9 @@ fields:
   default: []
   label: Tags
   hidden: false
-- name: categories
+- name: category_name
   type: tag_list
   default: []
-  label: Categories
+  label: category
 pages:
 - _posts/2021-05-30-visual-studio-code-remote-development.markdown
