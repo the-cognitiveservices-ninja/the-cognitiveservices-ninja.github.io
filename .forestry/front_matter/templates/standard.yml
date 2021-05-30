@@ -19,5 +19,10 @@ fields:
 - type: text
   name: permalink
   label: permalink
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text
 pages:
 - _posts/visual-studio-code-remote-development.markdown
