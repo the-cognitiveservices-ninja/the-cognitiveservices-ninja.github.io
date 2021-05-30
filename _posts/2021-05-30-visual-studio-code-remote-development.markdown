@@ -2,7 +2,8 @@
 tags:
 - development
 - visual studio code
-categories: []
+categories:
+- posts
 layout: post
 title: Visual Studio Code Remote Development
 text: ''
