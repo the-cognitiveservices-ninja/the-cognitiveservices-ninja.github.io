@@ -24,3 +24,5 @@ fields:
   config:
     required: false
   label: Text
+pages:
+- blog.markdown
