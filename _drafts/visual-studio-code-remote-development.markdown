@@ -20,8 +20,7 @@ text: ''
 
 No source code needs to be on your local machine to get these benefits. Each extension in the Remote Development extension pack can run commands and other extensions directly inside a container, in WSL, or on a remote machine so that everything feels like it does when you run locally.  
   
-Getting started
-
+## Getting started
 ### Remote Development extension pack
 
 The [Remote Development extension pack](https://aka.ms/vscode-remote/download/extension) includes three extensions. See the following articles to get started with each of them:
@@ -30,6 +29,14 @@ The [Remote Development extension pack](https://aka.ms/vscode-remote/download/ex
 * [Remote - Containers](https://code.visualstudio.com/docs/remote/containers) - Work with a separate toolchain or container-based application inside (or mounted into) a container.
 * [Remote - WSL](https://code.visualstudio.com/docs/remote/wsl) - Get a Linux-powered development experience in the Windows Subsystem for Linux.
 
-While most VS Code extensions should work unmodified in a remote environment, extension authors can learn more at [Supporting Remote Development](https://code.visualstudio.com/api/advanced-topics/remote-extensions).
+## Remote tutorials  
 
-## Remote tutorials
+The tutorials below will walk you through running Visual Studio Code with the Remote Development extensions.
+
+| Tutorial | Description |
+| --- | --- |
+| [Remote via SSH](https://code.visualstudio.com/docs/remote/ssh) | Connect to remote and virtual machines with Visual Studio Code via SSH. |
+| [Work in WSL](https://code.visualstudio.com/docs/remote/wsl) | Run Visual Studio Code in Windows Subsystem for Linux. |
+| [Develop in Containers](https://code.visualstudio.com/docs/remote/containers) | Run Visual Studio Code in a Docker Container. |
+| [GitHub Codespaces](https://docs.github.com/github/developing-online-with-codespaces/using-codespaces-in-visual-studio-code) | Connect to a codespace with Visual Studio Code. |
+
