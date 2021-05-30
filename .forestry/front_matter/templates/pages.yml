@@ -8,15 +8,15 @@ fields:
 - type: text
   name: title
   label: title
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 - name: categories
   type: text
   config:
     required: false
   label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - type: text
   name: permalink
   label: permalink
