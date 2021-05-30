@@ -20,4 +20,4 @@ fields:
   default: []
   label: Categories
 pages:
-- _posts/visual-studio-code-remote-development.markdown
+- _posts/2021-05-30-visual-studio-code-remote-development.markdown
