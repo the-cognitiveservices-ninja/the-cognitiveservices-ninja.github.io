@@ -1,5 +1,5 @@
 ---
-layout: categories_index
+layout: category_index
 title: Posts
 permalink: "/blog/"
 category_name: Posts
