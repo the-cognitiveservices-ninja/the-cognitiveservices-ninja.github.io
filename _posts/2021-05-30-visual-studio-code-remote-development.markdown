@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+- development
 categories: []
 layout: post
 title: Visual Studio Code Remote Development
