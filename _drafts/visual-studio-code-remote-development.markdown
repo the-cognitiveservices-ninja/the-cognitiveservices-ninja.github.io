@@ -32,9 +32,15 @@ The [123Code extension pack](https://marketplace.visualstudio.com/items?itemName
 
 The tutorials below will walk you through running Visual Studio Code with the Remote Development extensions.
 
-| Tutorial | Description |
-| --- | --- |
-| [Remote via SSH](https://code.visualstudio.com/docs/remote/ssh-tutorial) | Connect to remote and virtual machines with Visual Studio Code via SSH. |
-| [Work in WSL](https://code.visualstudio.com/docs/remote/wsl-tutorial) | Run Visual Studio Code in Windows Subsystem for Linux. |
-| [Develop in Containers](https://code.visualstudio.com/docs/remote/containers-tutorial) | Run Visual Studio Code in a Docker Container. |
-| [GitHub Codespaces](https://docs.github.com/github/developing-online-with-codespaces/using-codespaces-in-visual-studio-code) | Connect to a codespace with Visual Studio Code. |
+
+[Remote via SSH](https://code.visualstudio.com/docs/remote/ssh-tutorial)
+Connect to remote and virtual machines with Visual Studio Code via SSH.
+
+[Work in WSL](https://code.visualstudio.com/docs/remote/wsl-tutorial)
+Run Visual Studio Code in Windows Subsystem for Linux.
+
+[Develop in Containers](https://code.visualstudio.com/docs/remote/containers-tutorial)
+Run Visual Studio Code in a Docker Container.
+
+[GitHub Codespaces](https://docs.github.com/github/developing-online-with-codespaces/using-codespaces-in-visual-studio-code)
+Connect to a codespace with Visual Studio Code.
