@@ -4,7 +4,7 @@ tags:
 - visual studio code
 categories:
 - posts
-layout: category-post
+layout: post
 title: Visual Studio Code Remote Development
 text: ''
 
