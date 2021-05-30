@@ -5,7 +5,7 @@ categories: blog
 tags: []
 
 ---
-# 123Code
+### 123Code
 
 _123Code_ is a curated set of VS Code extensions for **starting to develop without worrying about to destroy your machine**.  
   
