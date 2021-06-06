@@ -72,3 +72,6 @@ This extension pack includes everything you need to start collaboratively editin
 [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)  
 Manage your code snippets and developer notes using GitHub Gists and repositories.  
 You can open, create, delete, fork and star gists and repositories, and then seamlessly begin editing files as if they were local, without ever cloning, pushing or pulling anything.
+
+changelog:   
+06-06-2021: add remote repositories
