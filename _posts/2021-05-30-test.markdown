@@ -7,8 +7,8 @@ tags: []
 ---
 ### 123Code
 
-_123Code_ is a curated set of VS Code extensions for **starting to develop without worrying about to destroy your machine**.  
-  
+_123Code_ is a curated set of VS Code extensions for **starting to develop without worrying about to destroy your machine**.
+
 [123Code im Microsoft Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123code)
 
 ### Tutorial
@@ -37,6 +37,21 @@ Open any folder or repository inside a Docker container and take advantage of Vi
 Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
 
 let you use VS Code in WSL just as you would from Windows.
+
+[Remote Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub-insiders)  
+Remotely browse and edit a GitHub repository (preview)
+
+1. Open any GitHub repository directly from GitHub — no cloning or local repository required
+2. Quickly search for a repository or pull request to open — can also copy/paste links directly from GitHub
+3. Repositories are always opened to the latest version on GitHub, unless you have uncommitted changes
+4. Similar to editing directly on GitHub, committing changes will go directly to GitHub — no pushing or publishing branches required
+5. Working changes are independent to the branch — allows working on multiple branches simultaneously!
+   * When you pause work on one branch and switch to another one, you don’t need to stash your changes — they’ll stay on the previous branch, and when you go back, your changes will be there to pick up right where you left off
+6. Automatically detects if there are new changes on GitHub.
+   * An indicator of the number of unpulled commits will be shown in the status bar
+   * Files with potential merge conflicts (e.g. you've modified the same file as someone else) will be highlighted
+7. Options to continue working in a more powerful environment
+   * When you choose Continue Working on... from the Command Palette or from the remote indicator, you're presented the option to continue your work locally, in a container volume (if you have the Remote - Containers extension), or in GitHub Codespaces
 
 [Windows Terminal Integration](https://marketplace.visualstudio.com/items?itemName=Tyriar.windows-terminal)
 Windows Terminal Utility for VS Code.
