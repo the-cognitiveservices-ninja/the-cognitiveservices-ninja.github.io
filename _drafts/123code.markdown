@@ -6,7 +6,7 @@ categories: blog
 
 ---
 new extensions included:  
-Azure Account & Azure Virtual Maschine, see [main post](http://the.cognitiveservices.ninja/admin/#/pages/_posts-2021-05-30-test-markdown/) for details
+Azure Account & Azure Virtual Machine, see [main post](http://the.cognitiveservices.ninja/admin/#/pages/_posts-2021-05-30-test-markdown/) for details
 
 _new_:
 
