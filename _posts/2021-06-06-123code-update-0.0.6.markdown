@@ -9,3 +9,10 @@ new extension included:
 remote repositories, see [main post](http://the.cognitiveservices.ninja/admin/#/pages/_posts-2021-05-30-test-markdown/) for details
 
 _new_
+
+[Remote Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
+
+* Develop with a consistent, easily reproducible toolchain on the same operating system you deploy to.
+* Quickly swap between different, separate development environments and safely make updates without worrying about impacting your local machine.
+* Make it easy for new team members / contributors to get up and running in a consistent development environment.
+* Try out new technologies or clone a copy of a code base without impacting your local setup.
