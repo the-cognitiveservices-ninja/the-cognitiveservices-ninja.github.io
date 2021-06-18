@@ -73,5 +73,12 @@ This extension pack includes everything you need to start collaboratively editin
 Manage your code snippets and developer notes using GitHub Gists and repositories.  
 You can open, create, delete, fork and star gists and repositories, and then seamlessly begin editing files as if they were local, without ever cloning, pushing or pulling anything.
 
-changelog:   
+[Azure Virtual Machine](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
+Create and manage Azure Virtual Machines directly from VS Code.
+
+[Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
+The Azure Account extension provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. It makes Azure's Cloud Shell service available in VS Code's integrated terminal.
+
+changelog:  
+06-16-2021: add Azure Account & Azure Virtual Machine  
 06-06-2021: add remote repositories
