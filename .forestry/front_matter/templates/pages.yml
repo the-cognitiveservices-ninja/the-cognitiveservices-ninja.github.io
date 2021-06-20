@@ -21,8 +21,8 @@ fields:
   name: permalink
   label: permalink
 pages:
-- _posts/123code-update-0.0.8.markdown
 - _posts/2021-05-30-123Code.markdown
 - _posts/2021-05-30-visual-studio-code-remote-development.markdown
 - _posts/2021-06-06-123code-update-0.0.6.markdown
 - _posts/2021-06-18-123code.markdown
+- _posts/2021-06-20-123code-update-0.0.8.markdown
