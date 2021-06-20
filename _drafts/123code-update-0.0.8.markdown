@@ -6,7 +6,7 @@ categories: blog
 
 ---
 new extensions included:  
-Docker & Docker Explorer, see [main post](http://the.cognitiveservices.ninja/admin/#/pages/_posts-2021-05-30-test-markdown/) for details
+Docker & Docker Explorer, see [main post](http://the.cognitiveservices.ninja/blog/2021/05/30/123Code.html) for details
 
 _new_:
 
