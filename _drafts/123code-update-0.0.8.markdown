@@ -5,3 +5,11 @@ title: 123Code - Update 0.0.8
 categories: blog
 
 ---
+new extensions included:  
+Docker & Docker Explorer, see [main post](http://the.cognitiveservices.ninja/admin/#/pages/_posts-2021-05-30-test-markdown/) for details
+
+_new_:
+
+[Azure Virtual Machine](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) Create and manage Azure Virtual Machines directly from VS Code.
+
+[Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) The Azure Account extension provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. It makes Azure's Cloud Shell service available in VS Code's integrated terminal.
