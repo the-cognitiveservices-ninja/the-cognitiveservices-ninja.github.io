@@ -10,6 +10,9 @@ Docker & Docker Explorer, see [main post](http://the.cognitiveservices.ninja/blo
 
 _new_:
 
-[Azure Virtual Machine](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) Create and manage Azure Virtual Machines directly from VS Code.
+[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) Makes it easy to create, manage, and debug containerized applications. 
 
-[Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) The Azure Account extension provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. It makes Azure's Cloud Shell service available in VS Code's integrated terminal.
+ The Docker extension makes it easy to build, manage, and deploy containerized applications from Visual Studio Code. It also provides one-click debugging of Node.js, Python, and .NET Core inside a container.
+
+[Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)
+Manage Docker Containers, Docker Images, Docker Hub and Azure Container Registry
