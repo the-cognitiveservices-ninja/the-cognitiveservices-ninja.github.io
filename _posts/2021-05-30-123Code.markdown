@@ -79,6 +79,10 @@ Create and manage Azure Virtual Machines directly from VS Code.
 [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
 The Azure Account extension provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. It makes Azure's Cloud Shell service available in VS Code's integrated terminal.
 
+### .devcontainer - as a proof of concept
+The extionsion pack itself is being created with this ideas and elements. 
+vsce to package and publish is available within the development container within this repository, there is no need to install vsce in your local environment.
+
 changelog:  
 06-16-2021: add Azure Account & Azure Virtual Machine  
 06-06-2021: add remote repositories
